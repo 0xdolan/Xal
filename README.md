@@ -52,7 +52,7 @@ Note:
 
 Download MDD (N/A)
 
-Download CSS (https://github.com/dolanskurd/Xal/blob/master/Xal%20Dictionary/XalD.css)
+[Download CSS](https://github.com/dolanskurd/Xal/blob/master/Xal%20Dictionary/XalD.css)
 
 [Download Dictionary Icon](https://github.com/dolanskurd/Xal/blob/master/Xal%20Dictionary/Xal%20Dictionary.png)
 
