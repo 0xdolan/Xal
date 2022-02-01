@@ -1,6 +1,6 @@
 # Xal Dictionary
 
-(**Xal̂ Dictionary** - **فەرهەنگی خاڵ**) is a **Kurdish Dictionary** for translating from **Kurdish** to **Kurdish** by ***Sheikh Muhammad Xal* (شێخ محەممەدی خاڵ)**. 
+(**Xal Dictionary** - **فەرهەنگی خاڵ**) is a **Kurdish Dictionary** for translating from **Kurdish** to **Kurdish** by ***Sheikh Muhammad Xal* (شێخ محەممەدی خاڵ)**. 
 
 ![xal dictionary](https://user-images.githubusercontent.com/18519747/48155196-7f85f200-e2db-11e8-9fbd-43afef6f574e.png)
 
@@ -104,4 +104,4 @@ I hope you like this dictionary. Feel free to reach out if you have questions or
 
 ## License
 
-Xal̂ Dictionary is available under the **MIT license**.
+Xal Dictionary is available under the **MIT license**.
